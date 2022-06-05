@@ -55,7 +55,7 @@ set fileencoding=utf-8
 set tabstop=4
 set shiftwidth=4
 set softtabstop=4
-set colorcolumn=80
+" set colorcolumn=80
 set expandtab
 set viminfo='25,\"50,n~/.viminfo
 autocmd FileType html setlocal tabstop=2 shiftwidth=2 softtabstop=2
