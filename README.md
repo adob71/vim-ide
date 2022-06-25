@@ -6,7 +6,8 @@ cp .* ~
 ```
 
 ### Project Structure
+```
 .
 ├── .tmux.conf
 ├── .vimrc
-
+````
